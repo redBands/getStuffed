@@ -2,6 +2,9 @@
 title: "SalmonMac"
 date: 2023-11-14T18:57:41Z
 draft: false
+tags:
+- pasta
+- fish
 ---
 
 [Nigel Slater's salmon macaroni recipe](https://www.theguardian.com/lifeandstyle/2014/may/27/salmon-macaroni-recipe-nigel-slater)
