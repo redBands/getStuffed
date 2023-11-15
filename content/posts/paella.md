@@ -1,7 +1,7 @@
 ---
 title: "Chicken and Chorizo Paella"
 date: 2023-11-15T12:21:00Z
-draft: true
+draft: false
 Tags:
 - rice
 - Spanish
