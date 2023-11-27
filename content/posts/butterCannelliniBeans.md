@@ -1,7 +1,7 @@
 ---
 title: "Butter Cannellini Beans Cavolo Greens"
 date: 2023-11-27T15:13:17Z
-draft: true
+draft: false
 tags:
 - Beans
 - Greens
