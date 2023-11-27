@@ -1,5 +1,5 @@
 ---
-title: "MedamesBeans"
+title: "Medames Beans"
 date: 2023-11-23T10:55:20Z
 draft: false
 tags:
