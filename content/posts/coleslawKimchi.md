@@ -4,23 +4,25 @@ date: 2024-02-07T15:16:16Z
 draft: false
 tags:
 - korean
+- salad
 ---
 
 [Coleslaw kimchi](https://www.jamieoliver.com/recipes/vegetable-recipes/coleslaw-kimchi/)
+
 “A delicious take on classic coleslaw but without the mayonnaise and with more of a kick to it. Goes perfectly with a piece of grilled fish or meat, on your sandwich or as a side dish. Together with a few green leaves and some veg the coleslaw is quickly transformed into a filling salad. ”
 
 ### Ingredients
 
-600g white cabbage
-200g leek
-100g carrot
-2 tablespoons gochugaru , (Korean chilli powder)
-1 teaspoon grated garlic
-1 teaspoon grated ginger
-1 tablespoon distilled vinegar , (12%)
-2 tablespoons sesame oil
-1-2 teaspoons salt
-½-1 tablespoon granulated sugar
+- 600g white cabbage
+- 200g leek
+- 100g carrot
+- 2 tablespoons gochugaru , (Korean chilli powder)
+- 1 teaspoon grated garlic
+- 1 teaspoon grated ginger
+- 1 tablespoon distilled vinegar , (12%)
+- 2 tablespoons sesame oil
+- 1-2 teaspoons salt
+- ½-1 tablespoon granulated sugar
 
 ### Method
 
