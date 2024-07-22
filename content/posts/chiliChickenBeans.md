@@ -1,7 +1,7 @@
 ---
 title: "ChiliChickenBeans"
 date: 2024-07-22T09:23:31+01:00
-draft: true
+draft: false
 ---
 
 [Chili Chicken and Beans](https://www.allrecipes.com/chili-bean-chicken-recipe-8676837)
