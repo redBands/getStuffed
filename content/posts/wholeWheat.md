@@ -1,5 +1,5 @@
 ---
-title: "WholeWheat"
+title: "Whole Wheat Sourdough Loaf"
 date: 2024-02-28T11:19:24Z
 draft: false
 tags:
