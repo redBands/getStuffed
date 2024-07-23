@@ -1,5 +1,5 @@
 ---
-title: "ChiliChickenBeans"
+title: "Chili Chicken and Beans"
 date: 2024-07-22T09:23:31+01:00
 draft: false
 ---
@@ -48,7 +48,7 @@ draft: false
 - 8 large skinless, boneless chicken thighs
 
 ### Directions
-Preheat the oven to 375 degrees F (190 degrees C).
+Preheat the oven to 375 degrees F, 190 degrees C, 170 fan.
 
 Add all the ingredients except chicken—salsa, ketchup, BBQ sauce, mustard, vinegar, brown sugar, Worcestershire, water, pinto beans, cannellini beans, chili powder, smoked paprika, cumin, garlic powder, black pepper, salt, cayenne, oregano, and green onions—to a large bowl, and stir very thoroughly to combine.
 
